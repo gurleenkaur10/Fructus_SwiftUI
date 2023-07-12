@@ -17,7 +17,7 @@ struct OnboardingView: View {
     
     var body: some View {
         TabView {
-            ForEach(fruits[0..<5]){ item in
+            ForEach(fruits[0..<10]){ item in
                 FruitCardView(fruit: item)
 
             }
