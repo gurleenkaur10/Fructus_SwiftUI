@@ -23,6 +23,7 @@
 		4EDD176F2A62ABB80093B5F5 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDD176E2A62ABB80093B5F5 /* FruitNutrientsView.swift */; };
 		4EDD17722A64DC9A0093B5F5 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDD17712A64DC9A0093B5F5 /* SettingView.swift */; };
 		4EDD17742A64E0370093B5F5 /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDD17732A64E0370093B5F5 /* SettingsLabelView.swift */; };
+		4EDD17762A650F3F0093B5F5 /* SettingRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDD17752A650F3F0093B5F5 /* SettingRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		4EDD176E2A62ABB80093B5F5 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 		4EDD17712A64DC9A0093B5F5 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 		4EDD17732A64E0370093B5F5 /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
+		4EDD17752A650F3F0093B5F5 /* SettingRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				4EDD176C2A62A9930093B5F5 /* SourceLinkView.swift */,
 				4EDD176E2A62ABB80093B5F5 /* FruitNutrientsView.swift */,
 				4EDD17732A64E0370093B5F5 /* SettingsLabelView.swift */,
+				4EDD17752A650F3F0093B5F5 /* SettingRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 				4E2C1E122A033552009EF271 /* OnboardingView.swift in Sources */,
 				4E2C1E142A033725009EF271 /* FruitModel.swift in Sources */,
 				4E2C1DFD29FDDC21009EF271 /* FructusApp.swift in Sources */,
+				4EDD17762A650F3F0093B5F5 /* SettingRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
